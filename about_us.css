@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  background-image:url("/assets/ball.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+
+.heading {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.catchy_phrase {
+  text-align: center;
+  color: white;
+  /* width: 200px; */
+  padding-bottom: 50px;
+}
+
+.mission {
+  width: 500px;
+  color: white;
+  text-align: center;
+  margin-left: 400px;
+}
+
+.why {
+  width: 500px;
+  color: white;
+  text-align: center;
+  margin-left: 850px;
+  padding-top: 0px;
+}
+
+.story {
+  width: 500px;
+  color: white;
+  text-align: center;
+  margin-right: 850px;
+  padding-top: 50;
+}
+
+.arrow {
+  width: 100px;
+  margin-right: 4px;
+    position: relative;
+    top: -320px;
+    left: 200px;
+    rotate: 330deg;
+}
+
+.arrow_two {
+  width: 100px;
+  margin-right: 4px;
+    position: relative;
+    top: -400px;
+    left: 850px;
+    rotate: 30deg;
+}
+
+.name {
+  font-family:cursive;
+  display: flex;
+  font-size: 20px !important;
+  margin-top: 25px;
+  margin-left: 25px;
+  color: white;
+  cursor: pointer;
+  text-decoration: inherit;
+}

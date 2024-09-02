@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(
+    to right,
+    /* red 50%,
+    blue 50% */
+    red,
+    blue
+    );
+    color: white;
+}
+
+.thanks {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+
+.write_up {
+  text-align: center;
+  color: white;
+  /* width: 200px; */
+  padding-bottom: 50px;
+}
+
+
+.messi {
+  text-align: center;
+  height: 350px;
+  margin-left: 450px;
+}
+
+.name {
+  font-family:cursive;
+  display: flex;
+  font-size: 20px !important;
+  margin-top: 25px;
+  margin-left: 25px;
+  color: white;
+  cursor: pointer;
+  text-decoration: inherit;
+}
